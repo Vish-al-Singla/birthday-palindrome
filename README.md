@@ -2,8 +2,11 @@
 ### Tell your friends if their birthdates are palindrome.
 App which checks whether your birthday is a palindrome birthday & if not let's you the nearest palindrome date with how many days you have missed
 <br/>
-
-Check Out !  <a>https://palindromic-birthday-app.netlify.app/</a>
+ 
+ <h2>Palindromic Birthday<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>   
+ <a  href="https://palindromic-birthday-app.netlify.app/
+ " class="button">Palindromic App</a>
+ 
 <br/>
 
 # How to use:
